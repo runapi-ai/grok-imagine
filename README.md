@@ -1,5 +1,7 @@
 # Grok Imagine API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/grok-imagine)](https://skills.sh/runapi-ai/grok-imagine)
+
 Generate video and images with Grok Imagine text-to-video, image-to-video, text-to-image, and image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Grok Imagine through RunAPI.
 
 The canonical agent file is `skills/grok-imagine/SKILL.md`.

@@ -4,6 +4,17 @@ description: Grok Imagine API skill for RunAPI. Use when the user asks for grok 
 documentation: https://runapi.ai/models/grok-imagine
 provider_page: https://runapi.ai/providers/xai
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/grok-imagine
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 
 # Grok Imagine API Skill for RunAPI
