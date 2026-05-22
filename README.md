@@ -1,6 +1,23 @@
-# Grok Imagine API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/grok-imagine">
+    <h3 align="center">Grok Imagine API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Grok Imagine fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/grok-imagine.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/grok-imagine"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/grok-imagine-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/grok-imagine)](https://skills.sh/runapi-ai/grok-imagine)
+
+</div>
+<br/>
 
 Generate video and images with Grok Imagine text-to-video, image-to-video, text-to-image, and image-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Grok Imagine through RunAPI.
 
