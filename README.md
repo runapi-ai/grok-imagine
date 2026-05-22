@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/grok-imagine.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/grok-imagine"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/grok-imagine-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/grok-imagine"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/grok-imagine-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/grok-imagine)](https://skills.sh/runapi-ai/grok-imagine)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/grok-imagine)](https://www.skills.sh/runapi-ai/grok-imagine/grok-imagine)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--grok--imagine-111827)](https://clawhub.ai/runapi-ai/runapi-grok-imagine)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/grok-imagine)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/grok-imagine)](https://github.com/runapi-ai/grok-imagine/blob/main/LICENSE)
 
 </div>
 <br/>
