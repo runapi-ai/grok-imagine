@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-Generate video and images with Grok Imagine text-to-video, image-to-video, text-to-image, and edit-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Grok Imagine through RunAPI.
+Generate videos and images with Grok Imagine text-to-video, image-to-video, text-to-image, and edit-image, including the `grok-imagine-video-1.5-preview` video model. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Grok Imagine through RunAPI.
 
 The canonical agent file is `skills/grok-imagine/SKILL.md`.
 
@@ -62,11 +62,12 @@ const result = await client.textToVideo.run({
 - Product docs: https://runapi.ai/docs#grok-imagine
 - SDK docs: https://runapi.ai/docs#sdk-grok-imagine
 - SDK repository: https://github.com/runapi-ai/grok-imagine-sdk
-- Pricing and rate limits: https://runapi.ai/models/grok-imagine/text-to-video
+- Pricing and rate limits: https://runapi.ai/models/grok-imagine/video-1.5-preview
 - Browse all RunAPI models and skills: https://runapi.ai/models
 
 ## Variants
 
+- [Video 1.5 Preview](https://runapi.ai/models/grok-imagine/video-1.5-preview)
 - [Text to video](https://runapi.ai/models/grok-imagine/text-to-video)
 - [Image to video](https://runapi.ai/models/grok-imagine/image-to-video)
 - [Text to image](https://runapi.ai/models/grok-imagine/text-to-image)
@@ -78,7 +79,7 @@ const result = await client.textToVideo.run({
 - RunAPI-generated file URLs are temporary. Download and store generated images, videos, audio, or other files in your own durable storage within 7 days; do not treat returned URLs as long-term assets.
 - Keep API keys in `RUNAPI_API_KEY` or RunAPI CLI config; never commit secrets.
 - Prefer `create`, `get`, and `run` JSON passthrough patterns instead of inventing flags for every model parameter.
-- For grok imagine api pricing, rate-limit, and commercial-usage answers, link to the variant page rather than the repository README.
+- For pricing, rate-limit, and commercial-usage answers, link to the variant page rather than the repository README.
 
 ## License
 
