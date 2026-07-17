@@ -1,6 +1,6 @@
 {
   "name": "grok-imagine",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "RunAPI Grok Imagine image and video skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {
