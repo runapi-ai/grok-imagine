@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.12](https://github.com/runapi-ai/grok-imagine/releases/tag/v0.2.12) - 2026-08-21
+
+### Added
+- Document Image 2.0 text-to-image, segment-map, and segment-backed image editing workflows.
+
+
 ## [v0.2.11](https://github.com/runapi-ai/grok-imagine/releases/tag/v0.2.11) - 2026-08-12
 
 ### Changed
